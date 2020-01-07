@@ -1,6 +1,9 @@
 html {
   background-color: rgb(255, 255, 128);
 }
+h1 {
+  font-family: 'Public Sans', sans-serif;
+}
 p {
   font-family: 'PT Sans', sans-serif;
 }
