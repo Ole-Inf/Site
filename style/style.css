@@ -26,3 +26,11 @@ h2{
 p{
     font-family:'Roboto Slab',serif;
 }
+
+hr{
+    width: 30px;
+    height:3px;
+    background:#494949
+    border:0;
+    
+}
