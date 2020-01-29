@@ -11,4 +11,10 @@ a {
 li {
     list-style-type: none;
 }
-    
+
+h1 ,h2 ,a{
+    font-family:'Roboto',sans-serif;
+    font-weight: 500;
+    color:#494949;
+    text-transform:uppercase;
+}
