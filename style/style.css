@@ -58,3 +58,7 @@ header nav ul li{
 header nav ul li:hover{
     padding-top:5px;
 }
+
+#DerAffe h1 {
+    margin:150px auto 0 auto;
+}
