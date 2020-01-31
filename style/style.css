@@ -18,6 +18,7 @@ h1 ,h2 ,a{
     font-weight: 500;
     color:#494949;
     text-transform:uppercase;
+    
 }
 
 h2{
@@ -65,4 +66,8 @@ header nav ul li:hover{
 
 section {
     height:100%;
+}
+
+h1{
+    font-size:50px;
 }
