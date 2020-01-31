@@ -7,6 +7,7 @@ html, body {
 
 a {
    text-decoration: none;
+    
 }
 
 li {
@@ -72,6 +73,10 @@ section {
 
 #logo {
     float:left;
-    margin:10px 0 0 50px;
+    margin:10px 0 0 50px;  
 }
+#logo:hover{
+    padding-top:5px;
+}
+
     
