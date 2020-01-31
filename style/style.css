@@ -60,17 +60,15 @@ header nav ul li:hover{
     padding-top:5px;
 }
 
-#DerAffe h1 {
-    margin-top:800px;
+ h1 {
+    margin-top:200px;
+     font-size:50px;
 }
 
 section {
     height:100%;
 }
 
-h1{
-    font-size:50px;
-}
 
 #logo {
     float:left;
