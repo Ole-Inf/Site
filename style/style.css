@@ -83,5 +83,6 @@ section {
     background: url(image/gorilla-2318998_1920.jpg);
     background-position:center center;
     background-size:cover;
+    background-attachment:fixed;
 }
     
