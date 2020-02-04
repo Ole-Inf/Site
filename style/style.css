@@ -47,7 +47,7 @@ header{
     position:fixed;
     top:0;
     left:0;
-    background:#d4d7de;
+    background:#fff;
     box-shadow: 0 1px 3px rgba(0,0,0,0.1);
     z-index:1;
 }
