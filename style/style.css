@@ -64,6 +64,7 @@ header nav ul li:hover{
  h1 {
     margin-top:100px;
      font-size:50px;
+     color:#fff;
 }
 
 section {
@@ -86,8 +87,6 @@ section {
     background-size:cover;
     background-attachment:fixed;
     background: url("../image/gorilla-2318998_1920.jpg") center, no-repeat
-    .h1{
-        color: #fff
-    }
+    
 }
     
