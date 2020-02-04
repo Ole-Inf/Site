@@ -82,7 +82,7 @@ section {
 }
 
 #DerAffe {
-    background: url(image/primates-monkey-ape-portrait.jpg);
+    background: url("image/primates-monkey-ape-portrait.jpg");
     background-position:center center;
     background-size:cover;
     background-attachment:fixed;
